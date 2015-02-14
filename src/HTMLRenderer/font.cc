@@ -109,7 +109,7 @@ string HTMLRenderer::dump_embedded_font (GfxFont * font, FontInfo & info)
             if(obj.streamGetDict()->lookup("Subtype", &obj1)->isName())
             {
                 subtype = obj1.getName();
-                if(subtype == "Type1C")
+                if ((subtype == "Type1C") || (subtype == "OpenType"))
                 {
                     suffix = ".cff";
                 }

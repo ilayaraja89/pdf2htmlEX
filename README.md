@@ -1,5 +1,7 @@
 #![](http://coolwanglu.github.io/pdf2htmlEX/images/pdf2htmlEX-64x64.png) pdf2htmlEX 
 
+[![Join the chat at https://gitter.im/pdf2htmlEX/Lobby](https://badges.gitter.im/pdf2htmlEX/Lobby.svg)](https://gitter.im/pdf2htmlEX/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 <!--
 [![Build Status](https://travis-ci.org/coolwanglu/pdf2htmlEX.png?branch=master)](https://travis-ci.org/coolwanglu/pdf2htmlEX)
 -->
